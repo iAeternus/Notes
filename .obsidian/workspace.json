@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "b2b5c8c00ab51276",
+    "type": "split",
+    "children": [
+      {
+        "id": "48e8ba04d9ce0986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe77773c0b4dc600",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1dedc323b37e447a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a95634768f59da8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c397f4fe19f0b82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1833997079376f57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ac9d928bb7f7cbab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0646956014e98385",
+    "type": "split",
+    "children": [
+      {
+        "id": "52092c567fa1f8a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e8abc7e6097272e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "深度学习基础学习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "深度学习基础学习 的反向链接列表"
+            }
+          },
+          {
+            "id": "7d76ad3b6b862107",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "深度学习基础学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "深度学习基础学习 的出链列表"
+            }
+          },
+          {
+            "id": "90c70868d07d76fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "75233a4f0b52e7ed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7fd1bfd5ff34cc76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "深度学习基础学习.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "深度学习基础学习 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "fe77773c0b4dc600",
+  "lastOpenFiles": [
+    "论文精读/2019_KDD_KGAT/2019_KDD_KGAT.md",
+    "论文精读/2019_KDD_KGAT/新建 文本文档.txt",
+    "论文精读/2019_KDD_KGAT",
+    "论文精读/新建文件夹",
+    "论文精读/2020_CIKM_MKGAT/2020_CIKM_MKGAT.md",
+    "论文精读/2020_CIKM_MKGAT/精读.md",
+    "论文精读/2020_CIKM_MKGAT",
+    "论文精读/10.1145_3340531.3411947/精读.md",
+    "深度学习基础学习/深度学习基础学习.md",
+    "assets/双向RNN.png",
+    "assets/Conditional GAN.png",
+    "assets/GCN向量化表示.png",
+    "深度学习基础学习/杂项.md",
+    "assets",
+    "深度学习基础学习/question.md",
+    "深度学习基础学习.md",
+    "深度学习基础学习/深度学习基础学习.pdf",
+    "深度学习基础学习/ref.md",
+    "未命名.canvas",
+    "assets/Voice Converson.png",
+    "assets/val set仍然导致过拟合.png",
+    "assets/VAE损失函数.png",
+    "assets/VAE2.png",
+    "assets/VAE.png",
+    "assets/Transformer训练.png",
+    "assets/Transformer.png",
+    "深度学习基础学习/文案.txt",
+    "assets",
+    "深度学习基础学习",
+    "未命名.md",
+    "欢迎.md",
+    "未命名.base"
+  ]
+}
