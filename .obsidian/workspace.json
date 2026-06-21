@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48e8ba04d9ce0986",
+        "id": "834970fd4bb00b82",
         "type": "tabs",
         "children": [
           {
-            "id": "fe77773c0b4dc600",
+            "id": "8d5707e403825c48",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -179,8 +179,9 @@
       "bases:新建数据库": false
     }
   },
-  "active": "fe77773c0b4dc600",
+  "active": "8d5707e403825c48",
   "lastOpenFiles": [
+    "未命名.canvas",
     "论文精读/2019_KDD_KGAT/2019_KDD_KGAT.md",
     "论文精读/2019_KDD_KGAT/新建 文本文档.txt",
     "论文精读/2019_KDD_KGAT",
@@ -199,7 +200,6 @@
     "深度学习基础学习.md",
     "深度学习基础学习/深度学习基础学习.pdf",
     "深度学习基础学习/ref.md",
-    "未命名.canvas",
     "assets/Voice Converson.png",
     "assets/val set仍然导致过拟合.png",
     "assets/VAE损失函数.png",
