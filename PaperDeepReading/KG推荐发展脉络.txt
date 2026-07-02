@@ -1,0 +1,47 @@
+Knowledge Graph Recommendation
+
+        │
+        ▼
+CKE
+RippleNet
+MCRec
+KPRN
+（KG作为辅助信息）
+        │
+        ▼
+KGAT
+KGNN-LS
+CKAN
+（GNN聚合邻居）
+        │
+        ▼
+KGIN
+（Intent + Relation Path）
+        │
+        ▼
+KGCL
+MCCLK
+（Self-supervised / Contrastive Learning）
+        │
+        ▼
+Disentangled KG Recommendation
+Causal KG Recommendation
+（兴趣解耦 + 因果建模）
+        │
+        ▼
+LLM + KG Recommendation
+DCGL ...
+（LLM语义 + 知识图谱）
+
+阅读计划：
+KGAT
+    ↓（建立 GNN + KG 基础）
+KGIN
+    ↓（理解 Relation Path 和 Intent）
+KGCL
+    ↓（补充 Contrastive Learning 基础）
+MCCLK
+    ↓（学习多视图、多粒度对比学习设计）
+DCGL
+    ↓（理解 LLM 如何与 KG 融合）
+开始思考自己的改进点

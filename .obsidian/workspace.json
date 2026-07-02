@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "834970fd4bb00b82",
+        "id": "2b5a638fdfdea007",
         "type": "tabs",
         "children": [
           {
-            "id": "8d5707e403825c48",
+            "id": "fa910899195ae45d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -179,26 +179,29 @@
       "bases:新建数据库": false
     }
   },
-  "active": "8d5707e403825c48",
+  "active": "fa910899195ae45d",
   "lastOpenFiles": [
+    "README.md",
+    "深度学习基础学习/深度学习基础学习.md",
+    "PaperDeepReading/KG推荐发展脉络.txt",
+    "PaperDeepReading/KG发展脉络.txt",
+    "PaperDeepReading/新建 文本文档.txt",
+    "PaperDeepReading/2021_WWW_KGIN/assets/相同多跳关系不同路径例子.jpg",
+    "PaperDeepReading/2021_WWW_KGIN/assets",
+    "PaperDeepReading/2021_WWW_KGIN/新建文件夹",
+    "PaperDeepReading/2021_WWW_KGIN/2021_WWW_KGIN.md",
     "PaperDeepReading/2019_KDD_KGAT/Reproduction/代码复现文档.md",
     "PaperDeepReading/2019_KDD_KGAT/Reproduction/knowledge_graph_attention_network/run.sh",
     "PaperDeepReading/2019_KDD_KGAT/Reproduction/knowledge_graph_attention_network/run.ps1",
     "PaperDeepReading/2019_KDD_KGAT/Reproduction/knowledge_graph_attention_network/kgat.egg-info/top_level.txt",
     "PaperDeepReading/2019_KDD_KGAT/Reproduction/knowledge_graph_attention_network/kgat.egg-info/SOURCES.txt",
     "PaperDeepReading/2019_KDD_KGAT/Reproduction/knowledge_graph_attention_network/kgat.egg-info/requires.txt",
-    "PaperDeepReading/2019_KDD_KGAT/Reproduction/knowledge_graph_attention_network/kgat.egg-info/PKG-INFO",
-    "PaperDeepReading/2019_KDD_KGAT/Reproduction/knowledge_graph_attention_network/kgat.egg-info/dependency_links.txt",
-    "PaperDeepReading/2019_KDD_KGAT/Reproduction/knowledge_graph_attention_network/kgat.egg-info",
-    "PaperDeepReading/2019_KDD_KGAT/Reproduction/knowledge_graph_attention_network/uv.lock",
-    "PaperDeepReading/2019_KDD_KGAT/Reproduction/knowledge_graph_attention_network/pyproject.toml",
     "PaperDeepReading/2019_KDD_KGAT/Reproduction/doc.md",
     "未命名.canvas",
     "论文精读/2019_KDD_KGAT/2019_KDD_KGAT.md",
     "论文精读/2020_CIKM_MKGAT/2020_CIKM_MKGAT.md",
     "论文精读/2020_CIKM_MKGAT/精读.md",
     "论文精读/10.1145_3340531.3411947/精读.md",
-    "深度学习基础学习/深度学习基础学习.md",
     "assets/双向RNN.png",
     "assets/Conditional GAN.png",
     "assets/GCN向量化表示.png",
@@ -212,7 +215,6 @@
     "assets/VAE2.png",
     "assets/VAE.png",
     "assets/Transformer训练.png",
-    "assets/Transformer.png",
     "未命名.md",
     "欢迎.md"
   ]
