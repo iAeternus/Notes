@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b5a638fdfdea007",
+        "id": "7231a2d0dfe10945",
         "type": "tabs",
         "children": [
           {
-            "id": "fa910899195ae45d",
+            "id": "09e3910d16287787",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -179,7 +179,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "fa910899195ae45d",
+  "active": "09e3910d16287787",
   "lastOpenFiles": [
     "PaperDeepReading/2021_WWW_KGIN/reproduction",
     "PaperDeepReading/2019_KDD_KGAT/reproduction/knowledge_graph_attention_network/Model/utility/__pycache__/parser.cpython-37.pyc",

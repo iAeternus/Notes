@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "-path:Reproduction",
+  "search": "-path:reproduction",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
