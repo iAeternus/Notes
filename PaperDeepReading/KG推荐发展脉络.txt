@@ -45,3 +45,5 @@ MCCLK
 DCGL
     ↓（理解 LLM 如何与 KG 融合）
 开始思考自己的改进点
+
+https://chatgpt.com/s/t_6a492b8f638c8191b8ada1554c714a35
